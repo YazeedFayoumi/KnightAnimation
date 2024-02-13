@@ -1,3 +1,6 @@
+body{
+    background-image: url(background.png);
+}
 img {
     animation: 6s move;
 
@@ -32,10 +35,5 @@ img {
     100% {
         margin-top: 24%;
         margin-left: 35%;
-    }
-}
-@media () {
-    p{
-
     }
 }
